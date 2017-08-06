@@ -1,3 +1,14 @@
+
+*.hex
+
+# Mac stuff
+.DS_Store
+
+
+# IntelliJ
+.idea
+
+
 # Prerequisites
 *.d
 
